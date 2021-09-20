@@ -11,4 +11,8 @@
   - Click vào nút cancel thì sẽ:
     + Thực hiện 	validate order: order có tồn tại không, order có đúng là của người dùng đó hay không, trạng thái order đã đúng chưa, nếu invalid thì hiển thị thông báo tương ứng
     + Thực hiện Cancel order, hiển thị thông báo để người dùng biết kết quả thực hiện
-- Note: order sẽ hiện "Cancel" <==> status order = "Pending".
+- Note: 
+  + Order sẽ hiện "Cancel" <==> status order = "Pending".
+  + Nếu khi nhấn "Cancel" => "Ok" không hiển thị thông báo ==> Xóa cookies trên trình duyệt.
+
+Xin trân thành cảm ơn!!!
